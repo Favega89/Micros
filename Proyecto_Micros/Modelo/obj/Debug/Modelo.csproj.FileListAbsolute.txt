@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Modelo\obj\Debug\Modelo.pdb
+G:\Proyecto Micros\Modelo\bin\Debug\Modelo.dll
+G:\Proyecto Micros\Modelo\bin\Debug\Modelo.pdb
+G:\Proyecto Micros\Modelo\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Micros\Modelo\obj\Debug\Modelo.dll
+G:\Proyecto Micros\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\Proyecto Micros\Modelo\bin\Debug\Modelo.dll
+E:\Proyecto Micros\Modelo\bin\Debug\Modelo.pdb
+E:\Proyecto Micros\Modelo\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Micros\Modelo\obj\Debug\Modelo.dll
+E:\Proyecto Micros\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Modelo\bin\Debug\Modelo.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Modelo\bin\Debug\Modelo.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Modelo\obj\Debug\Modelo.pdb

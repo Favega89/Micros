@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterAdmin.Master.cs" Inherits="Proyecto_Micros.PaginaMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/estilos.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="MasterHead" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+</head>
+<body class="bg">
+    <form id="MasterBody" runat="server">
+        <div id="cabecera" class="text-center bg-primary" runat="server">Menu Administrador</div>
+                   <div id="hola">     
+                        <nav id="aaa" runat="server" class="navbar navbar-default" >
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav" id="DDLboton">
+                                    <li  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><a>Seleccionar <span class="caret"></span></li>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="abm-nivelEducativo.aspx" id="nivelEducativo" >ABM Nivel Educativo</a></li>
+                                            <li><a href="abm-institucionEducativa.aspx">ABM Institucion Educativa</a></li>
+                                            <li><a href="abm-usuario.aspx">ABM Usuario</a></li>
+                                            <li><a href="abm-transporteUrbano.aspx">ABM Transporte Urbano</a></li>
+                                        </ul>
+                                </ul>
+                               <a class="navbar-brand" href="Login_usuario.aspx">LOGOUT</a>
+                            </div>
+                        </nav>
+                   </div> 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+</body>
+</html>

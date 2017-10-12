@@ -1,0 +1,46 @@
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\bin\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\obj\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Dao\obj\Debug\Dao.pdb
+G:\Proyecto Micros\Dao\bin\Debug\Dao.dll
+G:\Proyecto Micros\Dao\bin\Debug\Dao.pdb
+G:\Proyecto Micros\Dao\bin\Debug\Modelo.dll
+G:\Proyecto Micros\Dao\bin\Debug\Modelo.pdb
+G:\Proyecto Micros\Dao\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Micros\Dao\obj\Debug\Dao.dll
+G:\Proyecto Micros\Dao\obj\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\bin\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\obj\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\obj\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Dao\bin\Debug\Dao.dll.config
+E:\Proyecto Micros\Dao\bin\Debug\Dao.dll.config
+E:\Proyecto Micros\Dao\bin\Debug\Dao.dll
+E:\Proyecto Micros\Dao\bin\Debug\Dao.pdb
+E:\Proyecto Micros\Dao\bin\Debug\Modelo.dll
+E:\Proyecto Micros\Dao\bin\Debug\Modelo.pdb
+E:\Proyecto Micros\Dao\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Micros\Dao\obj\Debug\Dao.dll
+E:\Proyecto Micros\Dao\obj\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.dll.config
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.dll.config
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Dao.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Modelo.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\bin\Debug\Modelo.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Dao\obj\Debug\Dao.pdb

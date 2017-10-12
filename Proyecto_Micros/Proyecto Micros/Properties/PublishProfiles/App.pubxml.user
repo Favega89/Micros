@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\App2</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="abm-estudiante.aspx">
+      <publishTime>11/05/2015 12:04:06</publishTime>
+    </File>
+    <File Include="abm-institucionEducativa.aspx">
+      <publishTime>11/05/2015 18:00:48</publishTime>
+    </File>
+    <File Include="abm-nivelEducativo.aspx">
+      <publishTime>11/05/2015 23:13:10</publishTime>
+    </File>
+    <File Include="abm-roles.aspx">
+      <publishTime>11/05/2015 10:39:58</publishTime>
+    </File>
+    <File Include="abm-transporteUrbano.aspx">
+      <publishTime>11/05/2015 10:39:58</publishTime>
+    </File>
+    <File Include="abm-usuario.aspx">
+      <publishTime>11/17/2015 11:31:08</publishTime>
+    </File>
+    <File Include="abm_pasajeUrbano.aspx">
+      <publishTime>11/10/2015 09:25:38</publishTime>
+    </File>
+    <File Include="bin/Controladora.dll">
+      <publishTime>10/12/2017 12:16:03</publishTime>
+    </File>
+    <File Include="bin/Controladora.pdb">
+      <publishTime>10/12/2017 12:16:03</publishTime>
+    </File>
+    <File Include="bin/Dao.dll">
+      <publishTime>10/12/2017 10:08:53</publishTime>
+    </File>
+    <File Include="bin/Dao.pdb">
+      <publishTime>10/12/2017 10:08:53</publishTime>
+    </File>
+    <File Include="bin/Modelo.dll">
+      <publishTime>10/12/2017 10:08:50</publishTime>
+    </File>
+    <File Include="bin/Modelo.pdb">
+      <publishTime>10/12/2017 10:08:50</publishTime>
+    </File>
+    <File Include="bin/Proyecto Micros.dll">
+      <publishTime>10/12/2017 12:16:04</publishTime>
+    </File>
+    <File Include="bin/Proyecto Micros.pdb">
+      <publishTime>10/12/2017 12:16:04</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>10/13/2015 13:50:00</publishTime>
+    </File>
+    <File Include="css/estilos.css">
+      <publishTime>11/05/2015 11:28:00</publishTime>
+    </File>
+    <File Include="Estudiantes_institucion.aspx">
+      <publishTime>11/12/2015 10:57:26</publishTime>
+    </File>
+    <File Include="img/bg.jpg">
+      <publishTime>11/02/2015 13:37:50</publishTime>
+    </File>
+    <File Include="Login_usuario.aspx">
+      <publishTime>11/05/2015 10:45:20</publishTime>
+    </File>
+    <File Include="MasterAdmin.Master">
+      <publishTime>11/10/2015 10:51:08</publishTime>
+    </File>
+    <File Include="MasterRespInst.Master">
+      <publishTime>11/07/2015 16:46:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/12/2017 11:00:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\Modelo.dll
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\Modelo.pdb
+c:\users\usuario\desktop\documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\bin\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

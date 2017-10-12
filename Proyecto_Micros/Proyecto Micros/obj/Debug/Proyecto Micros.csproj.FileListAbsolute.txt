@@ -1,0 +1,78 @@
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Controladora.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Controladora.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros.txt\Proyecto Micros\obj\Debug\Proyecto Micros.csprojResolveAssemblyReference.cache
+G:\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+G:\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+G:\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+G:\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+G:\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+G:\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+G:\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+G:\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+G:\Proyecto Micros\Proyecto Micros\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+G:\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto-Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+E:\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+E:\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+E:\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+E:\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+E:\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+E:\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+E:\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+E:\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+E:\Proyecto Micros\Proyecto Micros\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+E:\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+C:\Users\Usuario\Desktop\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll.config
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Proyecto Micros.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Dao.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Controladora.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Modelo.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\bin\Dao.pdb
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.csprojResolveAssemblyReference.cache
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.dll
+C:\Users\mauro\Downloads\MICROS\Proyecto Micros\Proyecto Micros\Proyecto Micros\obj\Debug\Proyecto Micros.pdb
